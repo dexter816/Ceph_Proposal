@@ -1,8 +1,9 @@
 
 ### WORK DONE SO FAR: 
+
 - Studied the Jaeger cpp client, deployed HOTROD application present in Go language and see how tracing is done, in
   jaeger UI.
-  
+- Made a simple hello world instrumentation code using Jaeger-cpp-client (https://github.com/dexter816/jaeger-hello-world)  
 - Studied the project related resources present
 
       -  talk-https://www.youtube.com/watch?v=NHoI9F9bZeM   
